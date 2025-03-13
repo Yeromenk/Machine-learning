@@ -1,0 +1,8 @@
+# ignore .csv files
+*.csv
+
+*.bin
+
+*.h5
+
+*.sqlite3
